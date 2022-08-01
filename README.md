@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Websitedev001
-- 👀 I’m interested in ...in web development
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...web deveelopment
 - 📫 How to reach me ...+254700228122
 
 <!---

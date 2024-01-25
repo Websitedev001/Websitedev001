@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Websitedev001
-- 📫 How to reach me ...+254700228122
+I am GIDEON MUREITHI 
 
-<!---
-Websitedev001/Websitedev001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Frontend Engineer
+    Skills:
+    
+    HTML | CSS | JavaScript
+    React | Bootstrap | Tailwind CSS | Sass
+    
+A chess player focusing to both coding and the chessboard.

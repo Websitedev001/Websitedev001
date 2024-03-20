@@ -3,7 +3,13 @@ I am GIDEON MUREITHI
 Experienced Frontend Engineer
     Skills:
     
+    WEB DEVELOPMENT
+    
     HTML | CSS | JavaScript
     React | Bootstrap | Tailwind CSS | Sass
+
+    MACHINE lEARNING
     
-A chess player focusing to both coding and the chessboard.
+    Python 
+       IMPORTS Scikit-learn, Pandas, TensorFlow, Seaborn, Theano, Keras, PyTorch.
+    

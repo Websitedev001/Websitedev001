@@ -1,12 +1,12 @@
-I am GIDEON MUREITHI 
-
-Experienced Frontend Engineer
-    Skills:
+GIDEON MUREITHI 
+Bsc in Computer Science
+A CHESS PLAYER AND MANSTERCHER UNITED FAN<>
+Skills:
     
     WEB DEVELOPMENT
     
     HTML | CSS | JavaScript
-    React | Bootstrap | Tailwind CSS | Sass
+    MYSQL | Bootstrap | PHP
 
     MACHINE lEARNING
     

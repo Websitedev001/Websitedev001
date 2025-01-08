@@ -1,15 +1,22 @@
-GIDEON MUREITHI 
+Hello, I'm GIDEON MUREITHI 
+
+A web developer(full stack eng) and Machine Learning Engineer.
+
 Bsc in Computer Science
+
 A CHESS PLAYER AND MANSTERCHER UNITED FAN<>
 Skills:
     
     WEB DEVELOPMENT
     
-    HTML | CSS | JavaScript
-    MYSQL | Bootstrap | PHP
+    frontend HTML | CSS | JavaScript
+    frameworks Bootstrap | react
+    backend PHP | Python | Mysqli
 
     MACHINE lEARNING
     
     Python 
-       IMPORTS Scikit-learn, Pandas, TensorFlow, Seaborn, Theano, Keras, PyTorch.
+       libraries Scikit-learn, Pandas, TensorFlow, Seaborn, Theano, Keras, PyTorch.
+
+reach out mureithigideon68@gmail.com  +254 700228122
     
